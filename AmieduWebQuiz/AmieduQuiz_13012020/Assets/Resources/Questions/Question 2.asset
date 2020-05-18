@@ -13,12 +13,8 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: Which is the ninth month of the year?
-  answer:
-  - answer: January
-    isCorrect: 0
-  - answer: May
-    isCorrect: 0
-  - answer: June
-    isCorrect: 0
-  - answer: September
+  answers:
+  - answer: yes
     isCorrect: 1
+  - answer: no.
+    isCorrect: 0

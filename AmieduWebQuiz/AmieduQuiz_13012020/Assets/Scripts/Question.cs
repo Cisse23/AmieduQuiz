@@ -6,7 +6,7 @@ using UnityEngine;
 public class Question : ScriptableObject
 {
    public string question;
-   public Answer[] answer;
+   public Answer[] answers;
 }
 
 [System.Serializable]

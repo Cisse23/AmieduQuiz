@@ -13,12 +13,10 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: How many contiguous stats are in the United States of America?
-  answer:
-  - answer: 50
+  answers:
+  - answer: 1
+    isCorrect: 0
+  - answer: 2
     isCorrect: 1
-  - answer: 55
-    isCorrect: 0
-  - answer: 48
-    isCorrect: 0
-  - answer: 45
+  - answer: 3
     isCorrect: 0
