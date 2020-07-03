@@ -10,7 +10,7 @@ public class QuizController : MonoBehaviour
 
     void Start()
     {
-        DontDestroyOnLoad(GameObject);
+        DontDestroyOnLoad(this);
         SceneManager.LoadScene("Menu");
     }
 
